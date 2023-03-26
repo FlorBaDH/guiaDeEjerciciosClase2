@@ -1,2 +1,6 @@
 Hola que tal
 Ejercio clase 2 punto 5.
+
+
+
+modificacion punto 7 en mi archivo local
